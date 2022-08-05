@@ -1,0 +1,25 @@
+.photo {
+filter: brightness(50%);
+}
+.mt-4 {
+   text-align: center;
+}
+.car {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+.course-pic {
+    min-height: 192px;
+}
+.accordion {
+    width: 70%;
+   margin-left: 15%;
+}
+.company-logo {
+    width: 90px;
+    height: 20px;
+}
+.pro {
+    color: white;
+}
